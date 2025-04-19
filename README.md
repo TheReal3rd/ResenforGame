@@ -8,3 +8,6 @@ Play the game by going to resenfor.com.
 Its named after a friends username cause he smells.
 
 Smelly res - 3rd <3.
+
+Made using pixijs really good.
+https://pixijs.com/
